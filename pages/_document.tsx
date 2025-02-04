@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from "next/document";
 export default function Document() {
   const meta = {
     title: "My Profile - Deka Galang Permadi",
-    description: "Welcome to my personal website. Find information about me, my portfolio, and my latest projects.",
+    description: "This is my personal portfolio website, showcasing my skills and projects.",
     image: "https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png",
   };
 
