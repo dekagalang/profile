@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: "My Profile - Deka Galang Permadi",
     description: "This is my personal portfolio website, showcasing my skills and projects.",
-    image: "https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png",
+    image: "https://deka.pages.dev/opengraph-image.webp",
   };
 
   return (
